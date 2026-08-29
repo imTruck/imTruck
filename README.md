@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Personal Website](https://img.shields.io/badge/Website-mwry-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imtruck.github.io/mwry/)
 [![Telegram](https://img.shields.io/badge/Telegram-@bxiqm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bxiqm)
 [![Instagram](https://img.shields.io/badge/Instagram-@mamad__mwri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mamad_mwri)
 [![X (Twitter)](https://img.shields.io/badge/X-@mamad__mwri-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mamad_mwri)
@@ -81,6 +82,9 @@
         Ultra-modern, aesthetic single-page portfolio with bilingual RTL/LTR switching, ambient Lo-Fi audio visualizer, interactive cosmic particle canvas, and retina Canvas artwork.
       </p>
       <p align="center">
+        <a href="https://imtruck.github.io/mwry/">
+          <img src="https://img.shields.io/badge/Live_Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+        </a>
         <a href="https://github.com/imTruck/mwry">
           <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
         </a>
