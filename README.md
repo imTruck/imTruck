@@ -11,7 +11,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@bxiqm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bxiqm)
 [![Instagram](https://img.shields.io/badge/Instagram-@mamad__mwri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mamad_mwri)
 [![X (Twitter)](https://img.shields.io/badge/X-@mamad__mwri-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mamad_mwri)
-[![Personal Website](https://img.shields.io/badge/Website-mwry-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imtruck.github.io/mwry/)
 
 </div>
 
@@ -19,20 +18,11 @@
 
 ### 💫 About Me
 
-```javascript
-const mwri = {
-    pronouns: "he/him",
-    code: ["JavaScript", "TypeScript", "Python", "HTML5", "CSS3"],
-    technologies: {
-        serverless: ["Cloudflare Workers", "Vercel", "Edge Computing"],
-        backend: ["Node.js", "Express", "REST APIs", "Webhooks"],
-        ai_ml: ["Google Gemini API", "LLMs", "AI Agents", "Prompt Engineering"],
-        database: ["Cloudflare KV", "MongoDB", "PostgreSQL", "Redis"]
-    },
-    currentFocus: "Architecting autonomous AI bots & high-performance edge web apps ⚡",
-    funFact: "Turning complex code into seamless, elegant digital experiences."
-};
-```
+- 🚀 **Full-Stack & Edge Developer** building intelligent AI agents, modern web applications, and serverless architectures.
+- ⚡ **Core Expertise:** Serverless Systems (Cloudflare Workers), Node.js, Telegram Bot API, and LLM / Gemini integrations.
+- 💡 **Vision:** Turning complex logic and edge technologies into fast, intuitive, and elegant user experiences.
+- 🔭 **Current Focus:** Deep research AI agents, real-time data pipelines, and responsive web design.
+- 🤝 **Let's collaborate:** Always open to innovative projects, tech discussions, and new ideas!
 
 ---
 
